@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886794472426",
+    "project_id": "sociair-app-live",
+    "storage_bucket": "sociair-app-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886794472426:android:552e9d16fdc3a47aa18093",
+        "android_client_info": {
+          "package_name": "com.yajtech.projectx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaruQhtut3SPqGtqLQNQxXY80qmUqBBvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886794472426:android:c82cbfdf7a06fd84a18093",
+        "android_client_info": {
+          "package_name": "com.yajtech.projectx.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaruQhtut3SPqGtqLQNQxXY80qmUqBBvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

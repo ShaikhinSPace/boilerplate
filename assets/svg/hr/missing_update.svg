@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15"
+   height="16"
+   viewBox="0 0 15 16"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="b9c70c25-78f6-47ce-b5c9-f72e52c80bbd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M2.85706 4.00001V2.85713H1.14286V4.85707H13.7143V2.85713H11.9999V4.00001H10.857V2.85713H3.99992V4.00001H2.85706ZM10.857 1.71427H3.99992V0H2.85706V1.71427H0V5.4285V16H14.8572V5.4285V1.71427H11.9999V0H10.857V1.71427ZM13.7143 5.99993V14.8572H1.14286V5.99993H13.7143Z"
+     fill="#2374E1"
+     id="path1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M10.8465 7.87506L4.90366 13.8179L4.01068 12.925L9.95355 6.98209L10.8465 7.87506Z"
+     fill="#2374E1"
+     id="path2" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M10.8465 12.925L4.90366 6.98209L4.01068 7.87506L9.95355 13.8179L10.8465 12.925Z"
+     fill="#2374E1"
+     id="path3" />
+</svg>

@@ -1,0 +1,167 @@
+{
+  "hi": "what's your name",
+  "proceed": "Proceed",
+  "register": "Register",
+  "login": "Log In",
+  "termsAndCondition": "Terms & conditions",
+  "and": "and",
+  "privacyPolicy": "Privacy Policy",
+  "enterUserName": "Please enter your mobile number",
+  "dontHaveAccount": "Don't have an account?",
+  "forgotPassword": "Forgot password?",
+  "password": "Password",
+  "forgotPasswordDesc": "No worries, we will send you reset instruction to your email",
+  "emailAddress": "Email Address",
+  "getStarted": "Get Started",
+  "registerDesc": "Try us for free, no payment required",
+  "alreadyHaveAnAcc": "Already have an account?",
+  "verifyOTP": "Verify OTP",
+  "resentOTP": "Resend OTP",
+  "verifyYourMobileNo": "Verify Your Mobile Number",
+  "moibleNumber": "Mobile Number",
+
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "microPhone": "Microphone",
+  "storage": "Storage",
+  "contacts": "Contacts",
+  "cancel": "Cancel",
+  "done": "Done",
+  "add": "Add",
+  "@_profile": "============ Profile Screen ================ ",
+  "profile": "Profile",
+  "log_out": "Log out",
+  "@_forward_message": "============ Forward Message Screen ================ ",
+  "forwardMessage": "Forward Message",
+  "@_active_message_screen": "============ Active Message Screen ================ ",
+  "forward": "Forward",
+  "copyLink": "Copy Link",
+  "copyLinkMsg": "{value} copied to clipboard!",
+  "text": "Text",
+  "@copyLinkMsg": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+
+
+
+
+  
+
+  "notes": "Notes",
+  "quickReply": "Quick Reply",
+  "writeYourMessage": "Write your message...",
+  "typeANote": "Write your note...",
+
+  "@_HR": "========================HR MODULE================================",
+  "leaveBalance": "Leave Balance",
+  "lateArrival": "Late Arrival",
+  "leaveAccumulated": "Leave Accumulated",
+  "noLeaveAttendance": "No Leave Attendance",
+  "missingCheckouts": "Missing Checkouts",
+  "notAcknowledged": "Not Acknowledged",
+  "missingUpdates": "Missing Updates",
+  "dailyUpdate": "Daily Update",
+  "applyLeave": "Apply Leave",
+  "apply": "Apply",
+
+  "requestAttendance": "Request Attendance",
+  "request": "Request",
+  "sociairHr": "Sociair HR",
+  "supervisor": "Supervisor",
+  "pendingLeave": "Pending Leave",
+  "totalSubordinate": "Total Subordinate",
+  "noAcknowledgement": "No Acknowledgement",
+  "present": "Present",
+  "attendanceReq": "Attendance Request",
+  "subordinates": "Subordinates",
+  "myProjectUpdates": "My Project Updates",
+  "lateAttendance": "Late Attendance",
+  "holiday": "Holiday",
+  "hrPolicy": "HR Policy",
+  "logistic": "Logistic",
+  "birthday": "Birthday",
+  "otherActivities": "Other Activities",
+  "addDailyUpdate": "Add Daily Update",
+  "editDailyUpdate": "Edit Daily Update",
+
+  "submit": "Submit",
+  "others": "Others",
+  "mentionYourProductivity": "Mention your productivity",
+  "confirm": "Confirm",
+  "doYouWantToDeleteThisDailyUpdate": "Do you want to delete this daily update?",
+  "cancel": "Cancel",
+  "attendances": "Attendances",
+  "checkIn": "Check In",
+  "checkOut": "Check Out",
+  "duration": "Duration",
+  "filter": "Filter",
+  "project": "Project",
+  "acknowledgeStatus": "Acknowledge Status",
+  "from": "From",
+  "to": "To",
+  "leaveTransaction": "Leave Transaction",
+  "remainingDays": "Remaining Days",
+  "days": "Days",
+  "type": "Type",
+  "date": "Date",
+  "reasonForManualAttendance": "Reason for manual attendance",
+  "workedDuration": "Worked Duration",
+  "officeTime": "Office Time",
+  "remarks": "Remarks",
+  "status": "Status",
+  "scanQr": "Scan QR Code",
+  "scanQrCodeMsg": "Scan QR Code from your web sociair account to mark attendance",
+  "clear": "Clear",
+
+
+
+  "@_bottom_nav":"============ Bottom  Navigation ================ ",
+  "home": "Home",
+  "library": "Library",
+  "call": "Call", 
+  "messages": "Message",
+
+
+
+ 
+  "@_calls":"===============Call Screen ========================", 
+  "unlogged": "Unlogged",
+  "missed": "Missed", 
+  "logged": "Logged",
+  "all": "All", 
+
+  "call_history": "Call History", 
+  "tickets": "Tickets", 
+  "timeline": "Timeline",
+  "sales": "Sales",
+
+  "support": "Support",
+
+
+
+  "customer_details": "Customer Details",
+  "document": "Document",
+
+
+
+  "phone": "Phone", 
+  "email": "Email", 
+
+
+  "accept": "Accept", 
+  "decline": "Decline", 
+
+  "listen": "Listen", 
+
+
+  "products": "Products", 
+
+  "follow_up": "Follow Up", 
+  "callDetailUrl": "Call detail url", 
+
+  "location": "Location"
+}
